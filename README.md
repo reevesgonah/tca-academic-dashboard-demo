@@ -33,10 +33,9 @@ streamlit run app.py
 
 ## Deploying (Streamlit Community Cloud — free)
 
-1. Push this folder to a GitHub repo.
-2. Go to [share.streamlit.io](https://share.streamlit.io), sign in with GitHub,
-   and point it at the repo, branch, and `app.py`.
-3. Deploy. No secrets or configuration are needed.
+The Dashboard can be accessed using the following link: [https://tca-academic-dashboard-demo.streamlit.app/](https://tca-academic-dashboard-demo.streamlit.app/)
+
+**NOTE:** The actual app has a password layer to allow only permissioned staff to access the data.
 
 ## File structure
 
