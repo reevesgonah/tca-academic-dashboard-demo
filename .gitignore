@@ -1,0 +1,10 @@
+# Never commit secrets or real student records
+.streamlit/secrets.toml
+data/
+
+# Standard tooling junk
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.log
